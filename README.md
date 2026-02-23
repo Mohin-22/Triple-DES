@@ -1,8 +1,4 @@
-# [**Image-Security-by-Triple-DES-Final-Year-Project**](https://vatshayan-technologies.mojo.page/triple-des-project)
 
-**PROJECT GOAL:  ENCRYPTION & DECRYPTION of IMAGE through Triple DES**
-
-### PROJECT PPT : [**LINK**](https://github.com/Vatshayan/Image-Security-by-Triple-DES-Final-Year-Project/blob/main/IMAGE%20SECURITY%20BY%203%20DES.pdf)
 
 
 ### Triple DES : Data encryption standard (DES)
@@ -31,32 +27,3 @@ Decipher the second result using the first key
 ![Untitled-Diagram-130-1](https://user-images.githubusercontent.com/28294942/116646664-43a4e280-a996-11eb-9624-fbac40d50855.jpg)
 
 
-**PROJECT CODE: [LINK](https://github.com/Vatshayan/Image-Security-by-Triple-DES-Final-Year-Project/blob/main/IMAGE%20SECURITY%203%20DES%20PROJECT%20CODE.pdf)**
-
-## PROJECT WORKING FLOW:
-![New doc 30-Apr-2021 8 22 am](https://user-images.githubusercontent.com/28294942/116644568-5a950600-a991-11eb-8374-87260c38ff41.jpg)
-
-### Youtube Video of this Project: https://www.youtube.com/watch?v=Z8qna_22WTU
-
-
-### Hi there 👋
-
-You Can use this Beautiful Project for your college Project and get good marks too. 
-
-Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper(Base Papers) of this Project.
-
-### Need Code, Documents & Explanation video ? 
-
-## How to Reach me :
-
-### Mail : vatshayan007@gmail.com 
-
-### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
-
-### Website : https://www.finalproject.in/
-
-### 1000 Computer Science Projects : https://www.computer-science-project.in/
-
-Mail/Message me for Projects Help 🙏🏻
-
-<!--### Download all Files with Full Video Explanation : **[LINK](https://vatshayan-technologies.mojo.page/triple-des-project)**
